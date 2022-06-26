@@ -4,7 +4,7 @@ section .data
 
 	ola db "Ola, "
 	tamOla EQU $-ola
-	tamNome EQU 10
+	tamNome EQU 30
 
 section .bss
 	nome resb tamNome
