@@ -10,4 +10,4 @@
 	3. 16bits
 		- ax, bx, cx, dx, si, di, bp, sp, r8w, r9w, r10w, r11w, r12w, r13w, r14w, r15w
 	4. 8bits
-		- al, bl, dl, sil, dil, bsl, spl e8b, e9b, e10b, e11b, e12b, e13b, e14b, e15b
+		- al, bl, cl, dl, sil, dil, bsl, spl e8b, e9b, e10b, e11b, e12b, e13b, e14b, e15b
