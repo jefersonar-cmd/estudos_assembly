@@ -1,0 +1,3 @@
+# Depuração (DEBUG) de Código-Fonte com GDB
+
+- No meu caso não funcionou...
